@@ -9,5 +9,6 @@ package com.matrix.nickel;
 public class App {
     public static void main(String[] args) {
         System.out.println("Hello World!");
+        System.out.println("my name is nickel");
     }
 }
